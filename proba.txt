@@ -1,2 +1,2 @@
 Hello Git!
-Merge conflict pls.
+Merge conflict pls
