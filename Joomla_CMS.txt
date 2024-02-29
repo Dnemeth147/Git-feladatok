@@ -1,0 +1,29 @@
+A Joomla! egy ingyenes és nyílt forráskódú tartalomkezelő rendszer (CMS), amely saját modell-nézet-vezérlőből (MVC), és különböző népszerű webes keretrendszerek alkalmazásából áll. 
+
+Ezeknek a technológiáknak a segítségével könnyedén oszthatunk meg különböző típusú tartalmakat a világhálón és a helyi intraneten egyaránt. Maga a Joomla! objektum-orientált programozási (OOP) szemléletet követ a fejlesztők által bevezetett szoftvertervezési minta alapján, mind ezt PHP nyelven. Az adatok tárolása MySQL-ben, vagy egyéb támogatott SQL-alapú adatbázis-kezelőben történik.
+
+Maga a rendszer egy nagy közösség által fejlesztett moduláris termék, melynek a komponenseit úgy állították össze, hogy a legszélesebb körök igényeit is kielégítse, továbbá lerövidítse az üzembe helyezést, valamint a tartalom felvitelének idejét. Előnyei közé tartozik a moduláris felépítés, a magas szintű hozzáférés vezérlés, aminek a segítségével a felhasználók, illetve a felhasználói csoportokat tudunk hozzárendelni, egyes adminisztratív feladathoz, valamint az egyes tartalmak megtekintéséhez. Átlátható adminisztrációs felülete és ennek egyszerű kezelése a kevésbé hozzáértő felhasználó számára is átlátható. A Joomla! bővítményletöltő weboldalán több ezer bővítmény várja a felhasználókat.
+
+Az alaprendszer számos beépített funkcióján kívül az alábbi fő szolgáltatásokat biztosítja a felhasználók számára:
+
+Mobilnézetet támogató sablonrendszer
+Kategorizálható tartalomkezelés beépített WYSIWYG-szerkesztővel
+Natív többnyelvűség
+Intelligens frissítéskezelő-rendszer
+A tartalomkezeléstől elkülönülő menürendszer
+Magas szintű hozzáférés- és felhasználókezelés
+Beépített keresőbarát hivatkozások generálása UTF–8 karakterkódolás támogatásával
+Tartalom verziókövetés
+Weben keresztüli bővítménytelepítés
+Jelenleg az interneten található weboldalak több mint 3%-án Joomla! tartalomkezelő fut.
+
+A Joomla! CMS-rendszert az elmúlt években számos díjjal tüntették ki. 2005 óta szinte minden évben elnyerte valamelyik szervezet legjobb ingyenes és nyílt forrású tartalomkezelőjének a címét.
+
+A Joomla! egyike a legszélesebb körben lefordított tartalomkezelőknek jelenleg 75 nyelv támogatásával, és ez a szám folyamatosan növekszik.
+
+
+tartalomkezelő rendszer (CMS): Egy marketingkifejezés azokra a szoftverekre, amelyeket több személy együttműködésével készülő munkák koordinálására dolgoztak ki.
+
+modell-nézet-vezérlő (MVC): A szoftvertervezésben használatos szerkezeti minta. Összetett, sok adatot a felhasználó elé táró számítógépes alkalmazásokban gyakori fejlesztői kívánalom az adathoz (modell) és a felhasználói felülethez (nézet) tartozó dolgok szétválasztása, hogy a felhasználói felület ne befolyásolja az adatkezelést, és az adatok átszervezhetők legyenek a felhasználói felület változtatása nélkül. A modell-nézet-vezérlő ezt úgy éri el, hogy elkülöníti az adatok elérését és az üzleti logikát az adatok megjelenítésétől és a felhasználói interakciótól egy közbülső összetevő, a vezérlő bevezetésével.
+
+objektum-orientált programozási (OOP): Egy programozási módszertan. Ellentétben a korábbi programozási módszertanokkal, nem a műveletek megalkotása áll a középpontban, hanem az egymással kapcsolatban álló programegységek hierarchiájának megtervezése. Az objektumorientált gondolkodásmód lényegében a valós világ modellezésén alapul – például egy hétköznapi fogalom, a „kutya” felfogható egy osztály (a kutyák osztálya) tagjaként, annak egyik objektumaként. Minden kutya objektum rendelkezik a kutyákra jellemző tulajdonságokkal (például szőrszín, méret stb.) és cselekvési képességekkel (például futás, ugatás). Az objektumorientált programozásban fontos szerep jut az úgynevezett öröklődésnek, ami az osztályok egymásból való származtatását teszi lehetővé: a kutyák osztálya származhat az állatok osztályából, így megörökli az állatok tulajdonságait és képességeit, valamint kibővítheti vagy felülírhatja azokat a kutyák tulajdonságaival, képességeivel.

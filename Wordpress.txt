@@ -1,0 +1,25 @@
+Mi az a WordPress?
+
+A WordPress egy ingyenes és nyílt forráskódú (PHP és MySQL alapú) tartalomkezelő rendszer. A WordPress számtalan funkciót magába foglaló, modulárisan felépített publikációs platform. Többek között ennek a modularitásnak köszönheti a népszerűségét. A világ top 1 millió weboldalából 16,7% WordPress alapú és az új weboldalak 22%-a készül WordPress-el. A WP a legnépszerűbb tartalomkezelő rendszer ma az interneten!
+
+Főbb jellemzők
+
+Sablonok
+
+Sablonnak nevezzük azt a grafikai felépítést, aminek a segítségével megjelenik a weboldalunk.  Számos grafika közül válogathatunk az adminisztrációs felületen, jelenleg több mint 1600 tölthető le ingyenesen a WordPress alkotóinak hivatalos oldaláról. Ingyenes témák
+
+Bővítmények
+
+A WordPress egyik legnagyszerűbb tulajdonsága, hogy bárki könnyedén fejleszthet hozzá bővítményeket, kiegészítőket. A nyílt forrású szellemiségnek köszönhetően fejlesztők ezrei teszik közzé az általuk készített fejlesztéseket ingyen. Jelenleg több, mint 22.000 ingyenesen letölthető bővítmény található a WordPress hivatalos bővítménytárában. Ingyenes bővítmények
+
+Widgetek
+
+Widgeteknek nevezzük azokat a kisalkalmazásokat, melyek segítségünkre vannak a weboldalunk megjelenésének finomhangolásában. A widgetek kezelése igen egyszerű, gyakorlatilag egérrel építhetjük fel az oldalunkat, az úgynevezett „fogd és vidd” technológia segítségével. Ezek a mini modulok (alapesetben) a szöveges rész egyik oldalán elhelyezkedő sidebar-on megjelenő dobozok (boxok). Például: Keresés, Friss hozzászólások, Friss bejegyzések, Címkefelhő stb…
+
+Többfelhasználós verzió
+
+A WordPress segítségével könnyedén létrehozhatunk ingyenesen elérhető bloghálózatokat is. (Ilyen például: WordPress.com, blog.hu stb…) Maximum 5 perces telepítés után máris szabadon hozhatunk létre korlátlan számú új blogot, vagy akár közösségi oldalakat is.
+
+Mobilalkalmazások
+
+A WordPress elérhető a legnépszerűbb mobil-operációs rendszereken is, például: WebOS, Android, iOS (iPhone, iPod Touch, iPad), Windows Phone és BlackBerry.

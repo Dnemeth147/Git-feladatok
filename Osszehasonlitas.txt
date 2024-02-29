@@ -1,0 +1,11 @@
+WordPress:
+- Content Management System
+- Top 1Milla weboldalból 16,7% ezzel van csinálva, az újakból 22%
+- több mint 1600 ingyenes sablon
+- több mint 22000 ingyenes bővítmény
+
+
+Joomla CMS:
+- Content Management System
+- a weboldalak csak 3%-a Joomla!
+- több funkciót tartalmaz
